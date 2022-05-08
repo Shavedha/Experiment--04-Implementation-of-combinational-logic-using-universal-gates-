@@ -65,7 +65,7 @@ endmodule
 ### Truth Table
 ![output](./nandtr.png)
 ### RTL Realisation
-![output](./nandlg.png)
+![nandlg](https://user-images.githubusercontent.com/93427376/167283947-2cc08010-75b2-46cb-95c4-bfb2ab4ffa65.PNG)
 ### Timing Diagram
 ![output](./nandtim.jpeg)
 
